@@ -126,7 +126,7 @@ house-price-prediction-ml/
 ```
 2. Install dependencies
 ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn joblib
+   pip install -r requirements.txt
 ```
 3. Download `Housing.csv` from [Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) and place it in the project folder
 4. Open and run `house_price_prediction.ipynb` top to bottom
