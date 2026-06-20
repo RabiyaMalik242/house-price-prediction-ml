@@ -78,7 +78,7 @@ Build and evaluate regression models to predict house prices using the House Pri
 | Linear Regression | 979,680  | 1,331,071 | 0.6495 |
 | Gradient Boosting | 1,007,535 | 1,341,598 | 0.6439 |
 
-> Run the notebook to fill in your actual metric values above.
+> Best Model by R²: Linear Regression.
 
 ---
 
@@ -96,7 +96,7 @@ Build and evaluate regression models to predict house prices using the House Pri
 Run the notebook to train and save the models locally. The following files will be generated:
 
 ```
-house_price_lr_model.pkl
+house_price_lr_model_BEST.pkl  ← recommended for deployment
 house_price_gb_model.pkl
 house_price_scaler.pkl
 ```
