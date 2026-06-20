@@ -75,8 +75,8 @@ Build and evaluate regression models to predict house prices using the House Pri
 
 | Model | MAE | RMSE | R² |
 |---|---|---|---|
-| Linear Regression | — | — | — |
-| Gradient Boosting | — | — | — |
+| Linear Regression | 979,680  | 1,331,071 | 0.6495 |
+| Gradient Boosting | 1,007,535 | 1,341,598 | 0.6439 |
 
 > Run the notebook to fill in your actual metric values above.
 
